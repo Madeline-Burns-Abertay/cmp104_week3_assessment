@@ -1,12 +1,45 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\2501892\\OneDrive - Abertay University\\Documents\\GitHub\\cmp104_week3_assessment\\cmp104_week3_assessment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD2B8A4-B2FC-4259-B58E-87713E4D8DD5}|cmp104_week3_assessment\\cmp104_week3_assessment.vcxproj|C:\\Users\\2501892\\OneDrive - Abertay University\\Documents\\GitHub\\cmp104_week3_assessment\\cmp104_week3_assessment\\cmp104_week3_assessment\\cmp104_week3_assessment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DD2B8A4-B2FC-4259-B58E-87713E4D8DD5}|cmp104_week3_assessment\\cmp104_week3_assessment.vcxproj|solutionrelative:cmp104_week3_assessment\\cmp104_week3_assessment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b015bca8-f686-4aaf-a093-5d028dbdb089}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cmp104_week3_assessment.cpp",
+              "DocumentMoniker": "C:\\Users\\2501892\\OneDrive - Abertay University\\Documents\\GitHub\\cmp104_week3_assessment\\cmp104_week3_assessment\\cmp104_week3_assessment\\cmp104_week3_assessment.cpp",
+              "RelativeDocumentMoniker": "cmp104_week3_assessment\\cmp104_week3_assessment.cpp",
+              "ToolTip": "C:\\Users\\2501892\\OneDrive - Abertay University\\Documents\\GitHub\\cmp104_week3_assessment\\cmp104_week3_assessment\\cmp104_week3_assessment\\cmp104_week3_assessment.cpp",
+              "RelativeToolTip": "cmp104_week3_assessment\\cmp104_week3_assessment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-02T15:04:43.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

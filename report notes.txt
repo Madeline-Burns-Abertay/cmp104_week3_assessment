@@ -3,6 +3,16 @@ step 2: realise you're being an idiot
 step 3: try two loops from 1 to height
 step 4: goto 2
 step 5: correct the inner loop to be from 1 to 2*height
-step 6: if j isn't in the range height+-i, set output char to space, otherwise set it to j - i
+step 6: if j isn't in the range height ± i, set output char to space, otherwise set it to (temp value - will be corrected later) j - i; output char at end of inner loop and endl at end of outer loop
 
-new problem: see problem1.png
+new problem: figure 1 - problem.png
+
+step 7: after moving from library to 4506 due to time, realise a single if/else won't cut it
+step 8: nest another if inside the else block; add 0x30 to char at end of else block so it shows as a digit
+step 9: for now, if j > height, set output char to 0
+step 10: otherwise, set output char to (i - height) + j (see figure 2 for reasoning)
+
+figure 2: helpfulTable.png
+
+step 11: correct value of char if j > height - set it to height + i - j
+done - figure 3: finalOutput.png
