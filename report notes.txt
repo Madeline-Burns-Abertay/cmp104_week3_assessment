@@ -1,0 +1,8 @@
+step 1: try three j loops inside the i loop
+step 2: realise you're being an idiot
+step 3: try two loops from 1 to height
+step 4: goto 2
+step 5: correct the inner loop to be from 1 to 2*height
+step 6: if j isn't in the range height+-i, set output char to space, otherwise set it to j - i
+
+new problem: see problem1.png
