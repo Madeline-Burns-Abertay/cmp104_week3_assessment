@@ -5,7 +5,12 @@ int main() {
 	int height; char out;
 	cout << "enter single digit: "; cin >> height;
 	while (height < 1 || height > 9) {
-		cerr << "very funny";
+		if (height == 0) {
+			cerr << "error: pyramid of height 0 is impossible" << endl;
+		}
+		else {
+			cerr << "error: invalid input" << endl;
+		}
 		cout << "enter single digit: "; cin >> height;
 	}
 	for (uint8_t i = 1; i <= height; i++) {
